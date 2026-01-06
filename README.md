@@ -12,6 +12,22 @@ Welcome to TinDog — the coolest landing page for dog lovers and their new favo
 
 ⚡ Lightweight & Fast: Pure HTML and CSS, no heavy scripts, super easy to load and customize
 
+## 📸 Interface Preview
+
+Take a look at the responsive design and layout of TinDog:
+
+### 🏠 Hero Section
+Capture users' attention immediately with a bold headline and download buttons.
+<p align="center">
+  <img src="images/Hero Section.jpg" width="100%" alt="TinDog Hero Section Landing Page">
+</p>
+
+### 💲 Pricing Section
+A clear, card-based layout to showcase subscription plans effectively.
+<p align="center">
+  <img src="images/Price Section.png" width="100%" alt="TinDog Pricing Table Design">
+</p>
+
 🛠 Technologies Used
 HTML5 — Semantic and accessible markup
 
